@@ -1,5 +1,7 @@
-package com.example.Estoque
+package com.example.Estoque.Controller
 
+import com.example.Estoque.Produto.Produto
+import com.example.Estoque.Repository.ProdutoRepository
 import org.springframework.web.bind.annotation.*
 import org.springframework.http.ResponseEntity
 import org.springframework.beans.factory.annotation.Autowired

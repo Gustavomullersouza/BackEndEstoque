@@ -1,4 +1,4 @@
-package com.example.Estoque
+package com.example.Estoque.Produto
 
 import jakarta.persistence.*
 
